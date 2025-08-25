@@ -1,0 +1,4 @@
+O programa de manipulação de matrizes usando GPU's(unidade de processamento gráfico),
+ foi compilado num computador com processador, 13th Gen Intel i7-1355U (12) @ 5.000GHz
+  e GPU, Intel Raptor Lake-P [Iris Xe Graphics] ,com usando o compilador icx,
+ferramenta do OneApi da intel
